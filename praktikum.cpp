@@ -6,8 +6,8 @@ string name;
 int main(){
     int age;
     int age1;
-    age = 20;
-    age1 = 30;
+    age = 30;
+    age1 = 39;
 
     cout << "halo world" << endl;
     cout << 99 << endl;
